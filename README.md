@@ -85,11 +85,11 @@ Below are some key visualizations from the analysis:
 ![Intro_Ford_GoBike](images/Intro_Ford_GoBike.png)
 
 ## Facet Plot Trip Duration by User Type
-![Facet_Plot_Trip_Duration_by_User_Type_](images/Facet_Plot_Trip_Duration_by_User_Type_(Multivariate))
+![Facet_Plot_Trip_Duration_by_User_Type_](images/Facet_Plot_Trip_Duration_by_User_Type_(Multivariate).png)
 
 
 ## Scatter plot with multiple encodings
-![Scatter_plot_with_multiple_encodings](images/Scatter_plot_with_multiple_encodings)
+![Scatter_plot_with_multiple_encodings](images/Scatter_plot_with_multiple_encodings.png)
 
 ## How to Run the Project
 1. Clone the repository:
