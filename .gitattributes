@@ -1,0 +1,6 @@
+# Normalize text files
+* text=auto
+
+# Avoid line-ending noise for notebooks and HTML
+*.ipynb -text
+*.html  text eol=lf
